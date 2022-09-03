@@ -9,7 +9,6 @@ end
 
 # acceso al Root
 get "/" do
-
 end
 
 # redireccionando a la pagina para mostrar los Restaurantes
